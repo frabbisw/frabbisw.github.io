@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27",
+  "last_updated": "2026-10-28",
   "papers": [
     {
       "year": 2026,
@@ -10,7 +10,8 @@
       "note": "* Equal contribution · † Corresponding author",
       "url": "https://doi.org/10.1016/j.jss.2026.112964",
       "code": "https://github.com/frabbisw/Code-Translation-using-NL-Specification",
-      "topic": "Code translation"
+      "topic": "Code translation",
+      "pdf": "https://arxiv.org/pdf/2412.04590"
     },
     {
       "year": 2026,
@@ -18,8 +19,9 @@
       "venue": "Empirical Software Engineering · EMSE",
       "title": "A Multi-Language Perspective on the Robustness of LLM Code Generation",
       "authors": "Fazle Rabbi, Zishuo Ding, Jinqiu Yang",
-      "url": "https://arxiv.org/abs/2504.19108",
-      "topic": "Code robustness"
+      "url": "https://doi.org/10.1007/s10664-026-10882-8",
+      "topic": "Code robustness",
+      "pdf": "https://arxiv.org/pdf/2504.19108"
     },
     {
       "year": 2026,
@@ -28,7 +30,8 @@
       "title": "An Exploratory Study on Fine-Tuning Large Language Models for Secure Code Generation",
       "authors": "Junjie Li, Fazle Rabbi, Cheng Cheng, Aseem Sangalay, Yuan Tian, Jinqiu Yang",
       "url": "https://doi.org/10.1007/s10664-026-10803-9",
-      "topic": "Secure code generation"
+      "topic": "Secure code generation",
+      "pdf": "https://arxiv.org/pdf/2408.09078"
     },
     {
       "year": 2026,
@@ -46,7 +49,8 @@
       "title": "Beyond Translation Accuracy: Addressing False Failures in LLM-Based Code Translation",
       "authors": "Fazle Rabbi, Soumit Kanti Saha, Jinqiu Yang",
       "url": "https://doi.org/10.1145/3805760.3814890",
-      "topic": "Evaluation reliability"
+      "topic": "Evaluation reliability",
+      "pdf": "https://arxiv.org/pdf/2605.02195"
     },
     {
       "year": 2026,
@@ -55,7 +59,8 @@
       "title": "Secure-Instruct: Prompt, Synthesize, and Fine-Tune for Secure Code Generation",
       "authors": "Junjie Li, Fazle Rabbi, Bo Yang, Song Wang, Jinqiu Yang",
       "url": "https://doi.org/10.1145/3803846.3807466",
-      "topic": "Secure code generation"
+      "topic": "Secure code generation",
+      "pdf": "https://arxiv.org/pdf/2510.07189"
     },
     {
       "year": 2025,
@@ -64,7 +69,8 @@
       "title": "Bias Unveiled: Investigating Social Bias in LLM-Generated Code",
       "authors": "Lin Ling, Fazle Rabbi, Song Wang, Jinqiu Yang",
       "url": "https://doi.org/10.1609/aaai.v39i26.34961",
-      "topic": "Responsible AI"
+      "topic": "Responsible AI",
+      "pdf": "https://ojs.aaai.org/index.php/AAAI/article/view/34961/37116"
     },
     {
       "year": 2024,
@@ -73,7 +79,8 @@
       "title": "DVC in Open Source ML-Development: The Action and the Reaction",
       "authors": "Lorena Barreto Simedo Pacheco, Musfiqur Rahman, Fazle Rabbi, Pouya Fathollahzadeh, Ahmad Abdellatif, Emad Shihab, Tse-Hsun (Peter) Chen, Jinqiu Yang, Ying Zou",
       "url": "https://doi.org/10.1145/3644815.3644965",
-      "topic": "Software analytics"
+      "topic": "Software analytics",
+      "pdf": "https://seal-queensu.github.io/publications/pdf/CAIN_Pouya_2024.pdf"
     },
     {
       "year": 2022,
@@ -82,7 +89,8 @@
       "title": "SCMA: A Lightweight Tool to Analyze Swift Projects",
       "authors": "Fazle Rabbi, Syeda Sumbul Hossain, Mir Mohammad Samsul Arefin",
       "url": "https://doi.org/10.18293/SEKE2022-006",
-      "topic": "Software metrics"
+      "topic": "Software metrics",
+      "pdf": "https://people.cs.pitt.edu/~chang/seke/seke22paper/paper006.pdf"
     },
     {
       "year": 2021,
@@ -91,7 +99,8 @@
       "title": "SYSMAP: A Lightweight Software Visualization Tool to Analyze the Software Evolution of a System",
       "authors": "Fazle Rabbi, Nishat Tasnim Niloy, Nadia Nahar, Md. Nurul Ahad Tawhid",
       "url": "https://arxiv.org/abs/2108.05989",
-      "topic": "Software visualization"
+      "topic": "Software visualization",
+      "pdf": "https://arxiv.org/pdf/2108.05989"
     },
     {
       "year": 2020,
@@ -109,7 +118,8 @@
       "title": "An Ensemble Approach to Detect Code Comment Inconsistencies Using Topic Modeling",
       "authors": "Fazle Rabbi, Md. Nazmul Haque, Md. Eusha Kadir, Md. Saeed Siddik, Ahmedul Kabir",
       "url": "https://ksiresearch.org/seke/seke20paper/paper062.pdf",
-      "topic": "Program comprehension"
+      "topic": "Program comprehension",
+      "pdf": "https://ksiresearch.org/seke/seke20paper/paper062.pdf"
     }
   ],
   "manuscripts": [
@@ -120,7 +130,8 @@
       "title": "BabelCoder: Agentic Code Translation with Specification Alignment",
       "authors": "Fazle Rabbi, Soumit Kanti Saha, Tri Minh Triet Pham, Song Wang, Jinqiu Yang",
       "url": "https://arxiv.org/abs/2512.06902",
-      "topic": "Multi-agent systems"
+      "topic": "Multi-agent systems",
+      "pdf": "https://arxiv.org/pdf/2512.06902"
     },
     {
       "year": 2026,
@@ -129,7 +140,8 @@
       "title": "Social Bias in LLM-Generated Code: Benchmark and Mitigation",
       "authors": "Fazle Rabbi, Lin Ling, Song Wang, Jinqiu Yang",
       "url": "https://arxiv.org/abs/2605.00382",
-      "topic": "Responsible AI"
+      "topic": "Responsible AI",
+      "pdf": "https://arxiv.org/pdf/2605.00382"
     }
   ]
 }
