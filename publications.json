@@ -1,0 +1,135 @@
+{
+  "last_updated": "2026-10-27",
+  "papers": [
+    {
+      "year": 2026,
+      "type": "journal",
+      "venue": "Journal of Systems and Software · JSS",
+      "title": "Specification-Driven Code Translation Powered by Large Language Models: How Far Are We?",
+      "authors": "Soumit Kanti Saha*, Fazle Rabbi*†, Tri Minh Triet Pham, Song Wang, Jinqiu Yang",
+      "note": "* Equal contribution · † Corresponding author",
+      "url": "https://doi.org/10.1016/j.jss.2026.112964",
+      "code": "https://github.com/frabbisw/Code-Translation-using-NL-Specification",
+      "topic": "Code translation"
+    },
+    {
+      "year": 2026,
+      "type": "journal",
+      "venue": "Empirical Software Engineering · EMSE",
+      "title": "A Multi-Language Perspective on the Robustness of LLM Code Generation",
+      "authors": "Fazle Rabbi, Zishuo Ding, Jinqiu Yang",
+      "url": "https://arxiv.org/abs/2504.19108",
+      "topic": "Code robustness"
+    },
+    {
+      "year": 2026,
+      "type": "journal",
+      "venue": "Empirical Software Engineering · EMSE",
+      "title": "An Exploratory Study on Fine-Tuning Large Language Models for Secure Code Generation",
+      "authors": "Junjie Li, Fazle Rabbi, Cheng Cheng, Aseem Sangalay, Yuan Tian, Jinqiu Yang",
+      "url": "https://doi.org/10.1007/s10664-026-10803-9",
+      "topic": "Secure code generation"
+    },
+    {
+      "year": 2026,
+      "type": "conference",
+      "venue": "ACM International Conference on AI-Powered Software · AIware",
+      "title": "HEJ-Robust: A Robustness Benchmark for LLM-Based Automated Program Repair",
+      "authors": "Fazle Rabbi, Jinqiu Yang",
+      "url": "https://doi.org/10.1145/3805760.3814929",
+      "topic": "Program repair"
+    },
+    {
+      "year": 2026,
+      "type": "conference",
+      "venue": "ACM International Conference on AI-Powered Software · AIware",
+      "title": "Beyond Translation Accuracy: Addressing False Failures in LLM-Based Code Translation",
+      "authors": "Fazle Rabbi, Soumit Kanti Saha, Jinqiu Yang",
+      "url": "https://doi.org/10.1145/3805760.3814890",
+      "topic": "Evaluation reliability"
+    },
+    {
+      "year": 2026,
+      "type": "conference",
+      "venue": "International Conference on Predictive Models and Data Analytics in Software Engineering · PROMISE",
+      "title": "Secure-Instruct: Prompt, Synthesize, and Fine-Tune for Secure Code Generation",
+      "authors": "Junjie Li, Fazle Rabbi, Bo Yang, Song Wang, Jinqiu Yang",
+      "url": "https://doi.org/10.1145/3803846.3807466",
+      "topic": "Secure code generation"
+    },
+    {
+      "year": 2025,
+      "type": "conference",
+      "venue": "AAAI Conference on Artificial Intelligence · AAAI",
+      "title": "Bias Unveiled: Investigating Social Bias in LLM-Generated Code",
+      "authors": "Lin Ling, Fazle Rabbi, Song Wang, Jinqiu Yang",
+      "url": "https://doi.org/10.1609/aaai.v39i26.34961",
+      "topic": "Responsible AI"
+    },
+    {
+      "year": 2024,
+      "type": "conference",
+      "venue": "International Conference on AI Engineering · CAIN",
+      "title": "DVC in Open Source ML-Development: The Action and the Reaction",
+      "authors": "Lorena Barreto Simedo Pacheco, Musfiqur Rahman, Fazle Rabbi, Pouya Fathollahzadeh, Ahmad Abdellatif, Emad Shihab, Tse-Hsun (Peter) Chen, Jinqiu Yang, Ying Zou",
+      "url": "https://doi.org/10.1145/3644815.3644965",
+      "topic": "Software analytics"
+    },
+    {
+      "year": 2022,
+      "type": "conference",
+      "venue": "Software Engineering and Knowledge Engineering · SEKE",
+      "title": "SCMA: A Lightweight Tool to Analyze Swift Projects",
+      "authors": "Fazle Rabbi, Syeda Sumbul Hossain, Mir Mohammad Samsul Arefin",
+      "url": "https://doi.org/10.18293/SEKE2022-006",
+      "topic": "Software metrics"
+    },
+    {
+      "year": 2021,
+      "type": "preprint",
+      "venue": "arXiv preprint",
+      "title": "SYSMAP: A Lightweight Software Visualization Tool to Analyze the Software Evolution of a System",
+      "authors": "Fazle Rabbi, Nishat Tasnim Niloy, Nadia Nahar, Md. Nurul Ahad Tawhid",
+      "url": "https://arxiv.org/abs/2108.05989",
+      "topic": "Software visualization"
+    },
+    {
+      "year": 2020,
+      "type": "conference",
+      "venue": "International Conference on Program Comprehension · ICPC",
+      "title": "Detecting Code Comment Inconsistency Using Siamese Recurrent Network",
+      "authors": "Fazle Rabbi, Md. Saeed Siddik",
+      "url": "https://doi.org/10.1145/3387904.3389286",
+      "topic": "Program comprehension"
+    },
+    {
+      "year": 2020,
+      "type": "conference",
+      "venue": "Software Engineering and Knowledge Engineering · SEKE",
+      "title": "An Ensemble Approach to Detect Code Comment Inconsistencies Using Topic Modeling",
+      "authors": "Fazle Rabbi, Md. Nazmul Haque, Md. Eusha Kadir, Md. Saeed Siddik, Ahmedul Kabir",
+      "url": "https://ksiresearch.org/seke/seke20paper/paper062.pdf",
+      "topic": "Program comprehension"
+    }
+  ],
+  "manuscripts": [
+    {
+      "year": 2025,
+      "type": "manuscript",
+      "venue": "arXiv preprint · Manuscript",
+      "title": "BabelCoder: Agentic Code Translation with Specification Alignment",
+      "authors": "Fazle Rabbi, Soumit Kanti Saha, Tri Minh Triet Pham, Song Wang, Jinqiu Yang",
+      "url": "https://arxiv.org/abs/2512.06902",
+      "topic": "Multi-agent systems"
+    },
+    {
+      "year": 2026,
+      "type": "manuscript",
+      "venue": "arXiv preprint · Manuscript",
+      "title": "Social Bias in LLM-Generated Code: Benchmark and Mitigation",
+      "authors": "Fazle Rabbi, Lin Ling, Song Wang, Jinqiu Yang",
+      "url": "https://arxiv.org/abs/2605.00382",
+      "topic": "Responsible AI"
+    }
+  ]
+}
